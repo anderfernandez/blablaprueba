@@ -1,0 +1,2 @@
+"ORIGEN"-"DESTINO"-"id_orig"-"id_dest"-"distancia"-"tiempo"-"geom_trayecto"
+"Valle de Valdebezana"-"Burgos"-90590002781-9059-3889.02635624837-325592-"_bqaGf~fU??`@q@Lt@nA~JLApBg@~J_CfA_@@J\`ChArGz@tE|AvIEHADAF?F?D?FBJDHBBBBD@@?h@~BrFnZfBpJn@tDvA~HrAdHh@tBxCzO^tBBTf@~BHh@FRXpA^`BDLVx@DLRr@FNN^n@zAxCzGfCtFiAdAg@h@q@l@I\eCfCOb@AF?BCFABFTRpCTfFN^BBD@BDBFBH?F?D?DCJABCFKp@lAxSHjCHnAVfADDDHBHBHf@\xAX"
